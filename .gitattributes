@@ -1,2 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+Open in <command_line_application>
+git config --global http.postBuffer 157286400
+ 
